@@ -4,7 +4,7 @@
 ## [Syracuse University, Masters of Applied Data Science](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
 
 ### IST Portfolio Milestone
-### [Portfolio Milestone Details and Requirements](./DataScience@Syracuse_Portfolio_Milestone_Details.pdf)
+### [Portfolio Milestone Details and Requirements](./DataScience_Syracuse_Portfolio_Milestone_Details.pdf)
 
                                    **SYRACUSE UNIVERSITY School of Information Studies**
                                          	**IST - Portfolio Milestone**     
