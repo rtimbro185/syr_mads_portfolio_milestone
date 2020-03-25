@@ -17,7 +17,7 @@ Graduates of the MS Applied Data Science program at Syracuse University School o
 The intent of this Portfolio Milestone is for the student to assemble evidence and reflect on how each course they have taken has contributed to their acquisition of the cognitive strategies defined in the program learning outcomes, and how this has enabled them to become professionally prepared in their chosen area of specialty. Within the Learning Objectives section of this document, the student will use references from their course projects or assignments and reflect on how their work has demonstrated their mastery of these concepts.
 
 Links to details about my Portfolio and the video narrated presentation:
-* [Portfolio Learning Goals](./Ryan_Timbrook_PortfolioMilestone_LearningGoals_Final.pdf)
+* [Portfolio Learning Goals](./Ryan_Timbrook_PortfolioMilestone_LearningGoals_FINAL.pdf)
 * [Portfolio Presentation with narration](https://drive.google.com/open?id=1J9WgSylz3NuKnSI_ArT3-OBq-qS0jJ0N)
 * [Portfolio Presentation with out narration](./Ryan_Timbrook_PortfolioMilestone_Presentation_with_out_video.pdf)
 
